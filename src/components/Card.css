@@ -1,0 +1,24 @@
+.bg{
+    background-color: white;
+    position: relative;
+    height: 35rem;
+    border-radius: 2rem;
+    color: black;
+}
+.image{
+    border-radius: 2rem;
+}
+.title {
+    position: absolute;
+    top: 26rem;
+    left: 20px; 
+}
+.text{
+    margin-top: 10px;
+}
+.more{
+    position: absolute;
+    top: 31rem;
+    left: 20px;
+    margin-top: 10px;
+}
